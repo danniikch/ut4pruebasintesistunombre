@@ -40,22 +40,22 @@ public class calculadora {
     }
 
     /**
-     * @return the operacion
+     * @return the operador
      */
     public int getOperacion() {
-        return operacion;
+        return operador;
     }
 
     /**
-     * @param operacion the operacion to set
+     * @param operacion the operador to set
      */
     public void setOperacion(int operacion) {
-        this.operacion = operacion;
+        this.operador = operacion;
     }
 
    private int operador1;
    private int operador2;
-   private int operacion;
+   private int operador;
    
     public static void main(String[] args) {
        
