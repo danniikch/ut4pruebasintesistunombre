@@ -56,20 +56,16 @@ public class calculadora {
    private int operador1;
    
    /**
-    * @param 1 que cogera el primer valor que le introduzcamos al programa
+    * @param operador2 que cogera el primer valor que le introduzcamos al programa
     */
    private int operador2;
    
    /**
-    * @param 2 que cogera el segundo valor que le introduzcamos al programa
+    * @param operacion que cogera el segundo valor que le introduzcamos al programa
     */
    private int operacion;
-   /**
-    * 
-    * @param que cogera el resultado de nuestra operación  
-    */
-   
-    public static void main(String[] args) {
+  
+       public static void main(String[] args) {
        
     }
     
